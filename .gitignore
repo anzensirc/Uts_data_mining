@@ -1,0 +1,74 @@
+# =========================================
+# 🐍 Python general
+# =========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+dist/
+build/
+raw/
+# =========================================
+# 📊 Jupyter Notebook
+# =========================================
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hasil konversi (HTML, PDF, Markdown)
+*.html
+*.pdf
+*.md
+
+# Output otomatis nbconvert
+*nbconvert.ipynb
+
+# Cache atau file sementara notebook
+*.nbconvert.*
+*.nb.tmp
+*.out
+
+# =========================================
+# 🗂️ Data dan logs
+# =========================================
+# Dataset atau file besar
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.json
+*.xml
+
+# Logs
+*.log
+
+# =========================================
+# 🧪 IDE & OS
+# =========================================
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# =========================================
+# 🧰 Colab & Jupyter metadata
+# =========================================
+*.ipynb_checkpoints
+*.jupyter/
+.colab/
