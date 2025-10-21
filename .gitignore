@@ -22,10 +22,6 @@ raw/
 # Notebook checkpoints
 .ipynb_checkpoints/
 
-# Hasil konversi (HTML, PDF, Markdown)
-*.html
-*.pdf
-*.md
 
 # Output otomatis nbconvert
 *nbconvert.ipynb
@@ -41,7 +37,6 @@ raw/
 # Dataset atau file besar
 data/
 datasets/
-*.csv
 *.tsv
 *.xlsx
 *.xls
