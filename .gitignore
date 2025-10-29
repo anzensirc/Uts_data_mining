@@ -21,7 +21,7 @@ raw/
 # =========================================
 # Notebook checkpoints
 .ipynb_checkpoints/
-
+Laporan_UTS_DataMining_08.pdf
 
 # Output otomatis nbconvert
 *nbconvert.ipynb
